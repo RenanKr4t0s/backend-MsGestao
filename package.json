@@ -1,0 +1,28 @@
+{
+  "name": "ms_gestao_backend",
+  "version": "1.0.0",
+  "description": "estrutura de backend do App MS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanKr4t0s/backend-MsGestao.git"
+  },
+  "keywords": [
+    "backend",
+    "mySQL",
+    "MSCatsitter"
+  ],
+  "author": "Renan Dev Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanKr4t0s/backend-MsGestao/issues"
+  },
+  "homepage": "https://github.com/RenanKr4t0s/backend-MsGestao#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  }
+}
