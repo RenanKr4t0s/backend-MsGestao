@@ -18,7 +18,7 @@ app.use('/api', clientsRoutes);
   
   // Rota de teste
   app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('A API está em comunicação funcional');
   });
   
   // Router de erro 404
